@@ -1,0 +1,20 @@
+{
+  "name": "FileShareManagementServer",
+  "version": "0.0.1",
+  "description": "FileShare ManagementServer",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "morgan": "^1.9.1"
+  }
+}
