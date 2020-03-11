@@ -1,7 +1,7 @@
 {
   "name": "FileShareManagementServer",
   "version": "0.0.1",
-  "description": "FileShare ManagementServer",
+  "description": "FileShare Management Server",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
